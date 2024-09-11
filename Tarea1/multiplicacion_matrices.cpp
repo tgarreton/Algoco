@@ -13,7 +13,7 @@ std::vector<std::vector<int>> leerMatriz(const std::string& filename, int& n, in
         return matriz;
     }
 
-    file >> n >> m; // Asumimos que las dimensiones están en el archivo (puedes modificarlas según tu formato)
+    file >> n >> m; 
     matriz.resize(n, std::vector<int>(m));
 
     for (int i = 0; i < n; ++i)
@@ -25,7 +25,7 @@ std::vector<std::vector<int>> leerMatriz(const std::string& filename, int& n, in
 }
 
 //LOS SIGUIENTES ALGORITMOS SON DE LA PAGINA GEEKFORGEEKS 
-//
+//https://www.geeksforgeeks.org/strassens-matrix-multiplication/
 
 // Algoritmo iterativo cúbico tradicional
 std::vector<std::vector<int>> multiplicarMatricesIterativo(const std::vector<std::vector<int>>& A, const std::vector<std::vector<int>>& B, int n, int m, int p) {
