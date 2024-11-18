@@ -1,0 +1,5 @@
+Numero,Strings,Costo Edicion,Tiempo Ejecucion
+1,lebjjzihnysuvrfzehlyubjflntmgn-wbtdaufppggnvtdrhasfuhzngatijh,27,5e-05
+2,uyaxwrnrdtqnopsyorxukinajqzrre-uyaxwrnpbtqnopsyorxukinvjqzrre,3,5.1e-05
+3,ppemrdbzvdicjtvfudacmqszibqbui-qjhzbdmpmowrayhbstgaatjpvhaduu,28,4e-05
+4,oqgnrxkuyyizlbaremjufgrpecnpct-oqgnrxkuyyizlbaremujfgrpecnpct,1,3.7e-05
